@@ -29,3 +29,4 @@ Java
 В классе Main БД наполняется тестовыми данными, которые потом считываются
 и меняются как указано в задании.
 Пример решения на картинке:
+https://github.com/lysenkoandrii23/stores/blob/master/stores_example.PNG
